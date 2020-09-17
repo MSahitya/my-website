@@ -1,1 +1,2 @@
-second file in the git repository
+
+second file in the git repository version 1.0
